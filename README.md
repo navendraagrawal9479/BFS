@@ -1,3 +1,6 @@
+You can take the demo of the server on postman, server is deployed on -> https://binary-cd9o.onrender.com
+note: the server turns off when inactive for 15 minutes, so it may take time to load for the very first time.
+
 To view the Binary tree and it's structure, run the GET API - 
   '/'
 
